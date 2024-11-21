@@ -1,0 +1,8 @@
+prefix=/home/fcy/kaiyuan/Fast-tracker/devel
+
+Name: plan_manage
+Description: Description of plan_manage
+Version: 0.0.1
+Cflags: -I/home/fcy/kaiyuan/Fast-tracker/src/plan_manage/include
+Libs: -L${prefix}/lib 
+Requires: 

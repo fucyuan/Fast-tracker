@@ -11,7 +11,7 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3 -Wall -g")
 find_package(OpenCV REQUIRED)
 find_package(Eigen3 REQUIRED)
 find_package(PCL 1.7 REQUIRED)
-find_package(Boost REQUIRED COMPONENTS system filesystem)
+find_package(Boost  REQUIRED COMPONENTS system filesystem)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   roslib

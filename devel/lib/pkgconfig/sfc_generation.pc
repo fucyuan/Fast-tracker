@@ -1,0 +1,8 @@
+prefix=/home/fcy/kaiyuan/Fast-tracker/devel
+
+Name: sfc_generation
+Description: Description of sfc_generation
+Version: 0.0.1
+Cflags: -I/home/fcy/kaiyuan/Fast-tracker/src/tracking_utils/sfc/include
+Libs: -L${prefix}/lib 
+Requires: 

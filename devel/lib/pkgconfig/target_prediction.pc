@@ -1,0 +1,8 @@
+prefix=/home/fcy/kaiyuan/Fast-tracker/devel
+
+Name: target_prediction
+Description: Description of target_prediction
+Version: 0.0.1
+Cflags: -I/home/fcy/kaiyuan/Fast-tracker/src/tracking_utils/target_prediction/include
+Libs: -L${prefix}/lib 
+Requires: 

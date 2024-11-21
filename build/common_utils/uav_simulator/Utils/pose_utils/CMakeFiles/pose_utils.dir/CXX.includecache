@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fcy/kaiyuan/Fast-tracker/src/common_utils/uav_simulator/Utils/pose_utils/include/pose_utils.h
+iostream
+-
+armadillo
+/home/fcy/kaiyuan/Fast-tracker/src/common_utils/uav_simulator/Utils/pose_utils/include/armadillo
+
+/home/fcy/kaiyuan/Fast-tracker/src/common_utils/uav_simulator/Utils/pose_utils/src/pose_utils.cpp
+pose_utils.h
+/home/fcy/kaiyuan/Fast-tracker/src/common_utils/uav_simulator/Utils/pose_utils/src/pose_utils.h
+

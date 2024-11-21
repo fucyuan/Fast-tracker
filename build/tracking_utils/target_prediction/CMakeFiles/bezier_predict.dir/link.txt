@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/fcy/kaiyuan/Fast-tracker/devel/lib/libbezier_predict.a  CMakeFiles/bezier_predict.dir/src/bezier_predict.cpp.o
+/usr/bin/ranlib /home/fcy/kaiyuan/Fast-tracker/devel/lib/libbezier_predict.a

@@ -1,0 +1,8 @@
+prefix=/home/fcy/kaiyuan/Fast-tracker/devel
+
+Name: traj_server
+Description: Description of traj_server
+Version: 0.0.1
+Cflags: -I/home/fcy/kaiyuan/Fast-tracker/src/traj_server/include
+Libs: -L${prefix}/lib 
+Requires: 
